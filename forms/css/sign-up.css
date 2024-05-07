@@ -1,0 +1,65 @@
+body{
+    background: #212529 !important;
+}
+.signup-block {
+    margin: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+.bookShelf{
+    width: 340px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.logoImage {
+    width: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+}
+
+.form-signup {
+    max-width: 300px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 5px 35px 15px;
+    border: 1px solid #e5e5e5;
+    border-radius: 10px;
+}
+
+.form-signup .form-signup-heading {
+    display:flex;
+    justify-content:center;
+    margin-bottom: 20px;
+}
+.form-signup.alert{
+    display:flex;
+    justify-content:center;
+}
+.form-signup .control-email, .form-signup .control-password, .form-signup .confirm-password{
+    display:flex;
+    justify-content:center;
+}
+
+.form-signup .form-control{
+    padding: 15px;
+    margin-bottom: 9px;
+}
+.form-signup .submit-block{
+    display:flex;
+    justify-content:center;
+}
+.form-signup .signin-link{
+    display:flex;
+    justify-content:center;
+}
+.signin-link{
+    margin-top:10px;
+}
+.btn{
+    padding: 10px;
+}

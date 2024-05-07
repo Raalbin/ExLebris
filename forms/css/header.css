@@ -1,0 +1,18 @@
+@media (min-width: 1650px){
+    .navbar{
+        font-size: 23px;
+    }
+
+}
+.input-group{
+    margin-right: 25px;!important;
+    width:50%!important;
+}
+@media (max-width: 991px){
+
+    .input-group{
+        margin-right: 25px;!important;
+        width:100%!important;
+    }
+
+}

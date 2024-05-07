@@ -1,0 +1,22 @@
+
+#side-bar {
+    font-size: 16px;
+    text-align: center;
+    position: relative;
+    padding-left: 15px;
+    padding-right: 10px;
+}
+@media (min-width: 1650px){
+    #side-bar{
+        font-size: 22px;
+    }
+}#side-bar{
+     font-size: 16px;
+ }
+
+@media (max-width: 768px){
+    #side-bar{
+        font-size: 16px;
+    }
+
+}

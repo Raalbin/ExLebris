@@ -1,0 +1,6 @@
+#main-content {
+    text-align: left;
+    position: relative;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
