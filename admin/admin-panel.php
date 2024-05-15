@@ -31,7 +31,8 @@ if(!isLoggedIn()){
 </head>
 <body>
 <div id="cont" class="container-fluid h-100">
-    <?php require "../forms/header.php" ?>
+    <?php require "../forms/header.php" 
+    ?>
     <?php
     require '../forms/alert.php';
     ?>
