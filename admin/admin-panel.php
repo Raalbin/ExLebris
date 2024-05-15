@@ -71,16 +71,6 @@ if(!isLoggedIn()){
         </form>
 
     </div>
-    <div class="container">
-        <div class="name-section" style="text-align: center">
-            <h3>Сделать пользователя модератором</h3>
-        </div>
-        <form enctype="multipart/form-data" action="makeModer.php" method="post">
-            <div class="form-group ">
-                <input class="form-control form-control-lg mb-2" type="text" name="user" placeholder="ID или Email пользователя">
-            </div>
-            <button type="submit" name="submit" class="btn btn-warning mt-3" style="width:200px; height: 45px">Выполнить</button>
-        </form>
 
     </div>
     <div class="container">
