@@ -67,10 +67,6 @@ if(!isLoggedIn()){
                 <label for="exampleFormControlFile1">Фотография обложки</label>
                 <input class="form-control form-control-lg" id="formImageFile" type="file" name="fileImage"/>
             </div>
-            <div class="form-group">
-                <label for="exampleFormControlFile1">Исходный текст книги</label>
-                <input class="form-control form-control-lg" id="formTextFile" type="file" name="fileText"/>
-            </div>
             <button type="submit" name="submit" class="btn btn-success mt-3" style="width:200px; height: 45px">Добавить книгу</button>
         </form>
 
